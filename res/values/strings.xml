@@ -4,5 +4,8 @@
     <string name="app_name">samppaus</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="button">Button</string>
+    <string name="moro_samii_p">Moro samii :P</string>
+    <string name="juh_l_pp_">juh läppä</string>
 
 </resources>
