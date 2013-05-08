@@ -23,7 +23,7 @@
         android:layout_below="@+id/button1"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="24dp"
-        android:text="Juh, eli sampalle, hehe moro hene terkut,terkkuis lisää samilleeee :)"
+        android:text="Juh, chill vaa joni eli sampalle, hehe moro hene terkut,terkkuis lisää samilleeee :)"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <EditText
