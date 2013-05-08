@@ -23,7 +23,7 @@
         android:layout_below="@+id/button1"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="24dp"
-        android:text="Juh, eli sampalle terkut,terkkuis lisää samil"
+        android:text="Juh, eli sampalle terkut,terkkuis lisää samilleeee :)"
         android:textAppearance="?android:attr/textAppearanceMedium" />
     <TextView
         android:id="@+id/textView1"
