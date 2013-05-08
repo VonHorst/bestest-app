@@ -16,16 +16,6 @@
         android:layout_alignParentTop="true"
         android:text="@string/button_send" />
 
-    <EditText
-        android:id="@+id/editText1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignBaseline="@+id/button1"
-        android:layout_alignBottom="@+id/button1"
-        android:layout_alignParentLeft="true"
-        android:ems="10"
-        android:text="Lisää Galu" />
-
     <TextView
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
@@ -34,6 +24,28 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="24dp"
         android:text="Juh, eli sampalle terkut"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/button1"
+        android:layout_alignLeft="@+id/textView1"
+        android:ems="10"
+        android:text="Lisää Galu" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="130dp"
+        android:text="Juh, eli Henelle toiset fck joutu asentaa tän uusiks :EEE"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
 </RelativeLayout>
